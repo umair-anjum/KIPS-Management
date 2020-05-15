@@ -7,6 +7,9 @@ The project was developed to solve the problems that are faced in the manual sys
 3) Teacher
 4) Accountant
 
+## Main Panel
+![](Capture1)
+
 ## Contributions 
 Contributions, issues and feature requests are welcome.
 Feel free to check [issues](https://github.com/UmairAnjum86/KIPS-Management/issues "issues") page if you want to contribute.
