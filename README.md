@@ -8,7 +8,7 @@ The project was developed to solve the problems that are faced in the manual sys
 4) Accountant
 
 ## Main Panel
-![](Capture1)
+![](Capture1.PNG)
 
 ## Contributions 
 Contributions, issues and feature requests are welcome.
